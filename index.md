@@ -31,6 +31,7 @@ I'm pretty easy to get in contact with. Please reach out if there is a story tha
 
 ### Finance and Economics
 
+* Mother Jones: [She Accused Her Ex-Husband of Abuse. She’s Still Stuck With His Student Loans.](https://www.motherjones.com/politics/2022/04/spousal-consolidation-student-loans/)
 * Mother Jones: [Biden Promised Student Debt Relief for Public Service Workers. The Reality Has Been Painful.](https://www.motherjones.com/politics/2022/01/biden-promised-student-debt-relief-for-public-service-workers-the-reality-has-been-painful/)
 * Workshift: [Do we know what jobs are in high demand?](https://workshift.opencampusmedia.org/do-we-know-what-jobs-are-in-high-demand/)
 * American Prospect: [Student Loan Giant Navient Reaps Backdoor Federal Reserve Subsidy](https://prospect.org/economy/student-loan-giant-navient-reaps-backdoor-federal-reserve-subsidy/)
