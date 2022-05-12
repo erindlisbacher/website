@@ -40,10 +40,10 @@ I'm pretty easy to get in contact with. Please reach out if there is a story tha
 ### Politics
 
 * Mother Jones: [This Republican Wants to Extend a Real Estate Tax Break. He Could Be a Big Beneficiary.](https://www.motherjones.com/politics/2022/02/tracey-mann-congress-opportunity-zones-austin/)
-* Daily Poster: [Dems Demanding SALT Tax Cuts Stand to Benefit](https://www.dailyposter.com/democrats-gunning-to-end-salt-cap-stand-to-benefit/)
-* Daily Poster: [Boot Camps For Crushing Democracy](https://www.dailyposter.com/p/boot-camps-for-crushing-democracy)
-* Daily Poster: [Congressman's Companies Evicting Renters During Pandemic](https://www.dailyposter.com/p/landlord-congressmans-companies-evicting)
-* Daily Poster/American Prospect: [GOP Lawmaker Leads Fight to Get His Industry a Government Bailout](https://www.dailyposter.com/p/gop-lawmaker-leads-fight-to-get-his)
+* The Lever: [Dems Demanding SALT Tax Cuts Stand to Benefit](https://www.dailyposter.com/democrats-gunning-to-end-salt-cap-stand-to-benefit/)
+* The Lever: [Boot Camps For Crushing Democracy](https://www.dailyposter.com/p/boot-camps-for-crushing-democracy)
+* The Lever: [Congressman's Companies Evicting Renters During Pandemic](https://www.dailyposter.com/p/landlord-congressmans-companies-evicting)
+* The Lever/American Prospect: [GOP Lawmaker Leads Fight to Get His Industry a Government Bailout](https://www.dailyposter.com/p/gop-lawmaker-leads-fight-to-get-his)
 
 ## Research and Miscellaneous
 
