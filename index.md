@@ -47,6 +47,6 @@ I'm pretty easy to get in contact with. Please reach out if there is a story tha
 
 ## Research and Miscellaneous
 
-I occasionally will help various types of organizations (think tanks, investors, etcetera) conduct research. I also am available for fact checking. 
+I occasionally will help various types of organizations conduct research. 
 
 * Century Foundation: [Flying Under the Regulation Radar: University Partnerships with Coding Bootcamps](https://tcf.org/content/report/flying-regulation-radar-university-partnerships-coding-bootcamps/)
