@@ -7,7 +7,7 @@ title: "Emma Rindlisbacher | Journalist"
 
 Hi, I'm a reporter. I currently work at [Mother Jones](https://www.motherjones.com/author/emma-rindlisbacher/). Before that I was a freelance journalist. 
 
-I write about all sorts of topics: student debt, workforce development, and congressional conflicts of interest just to name a few. I like stories that involve interesting legal or financial documents. I also like stories that involve complicated systems that are producing suboptimal outcomes.
+I write about all sorts of topics: student debt, workforce development, and congressional conflicts of interest just to name a few. I like stories that involve interesting documents. I also like stories that involve complicated systems that are producing suboptimal outcomes.
 
 ## Tell Me What to Write About
 
@@ -38,10 +38,10 @@ I'm pretty easy to get in contact with. Please reach out if there is a story tha
 
 ### Politics
 
+* Mother Jones: [Matt DePerno Sought to Foreclose on His Clients’ Property. Now He Wants to Be Michigan’s Top Lawyer.](https://www.motherjones.com/politics/2022/10/matthew-deperno-trump-michigan-foreclosure/)
 * Mother Jones: [This Republican Wants to Extend a Real Estate Tax Break. He Could Be a Big Beneficiary.](https://www.motherjones.com/politics/2022/02/tracey-mann-congress-opportunity-zones-austin/)
 * The Lever: [Dems Demanding SALT Tax Cuts Stand to Benefit](https://www.dailyposter.com/democrats-gunning-to-end-salt-cap-stand-to-benefit/)
 * The Lever: [Boot Camps For Crushing Democracy](https://www.dailyposter.com/p/boot-camps-for-crushing-democracy)
-* The Lever: [Congressman's Companies Evicting Renters During Pandemic](https://www.dailyposter.com/p/landlord-congressmans-companies-evicting)
 * The Lever/American Prospect: [GOP Lawmaker Leads Fight to Get His Industry a Government Bailout](https://www.dailyposter.com/p/gop-lawmaker-leads-fight-to-get-his)
 
 ## Research and Miscellaneous
