@@ -17,8 +17,9 @@ Please reach out if there is a story that you feel needs more attention.
 * ProtonMail Email: <a href="javascript:location='mailto:\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u0070\u0072\u006f\u0074\u006f\u006e\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u0070\u0072\u006f\u0074\u006f\u006e\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script></a>
 * Signal/Telegram: ask me.
 
-## Reporting: The Highlights
+## Reporting
 
+(Not a complete list.)
 
 ### Finance
 
