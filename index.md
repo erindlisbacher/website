@@ -31,7 +31,7 @@ Please reach out if there is a story that you feel needs more attention.
 
 ### Criminal Justice
 
-* [Mother Jones: “An Extreme Amount of Pain”: How a Notorious Jail Failed a Disabled Transgender Inmate](https://www.motherjones.com/crime-justice/2023/01/mdc-brooklyn-jail-health-care/)
+* Mother Jones: [“An Extreme Amount of Pain”: How a Notorious Jail Failed a Disabled Transgender Inmate](https://www.motherjones.com/crime-justice/2023/01/mdc-brooklyn-jail-health-care/)
 
 ### Politics
 
