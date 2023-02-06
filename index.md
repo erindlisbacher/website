@@ -11,30 +11,27 @@ I write about all sorts of topics: student debt, workforce development, and cong
 
 ## Tell Me What to Write About
 
-I'm pretty easy to get in contact with. Please reach out if there is a story that you feel needs more attention.
+Please reach out if there is a story that you feel needs more attention.
 
-* Twitter: [@brokenimageheap](https://twitter.com/brokenimageheap)
-* LinkedIn: [/in/erindlisbacher](https://linkedin.com/in/erindlisbacher)
 * Work Email: <a href="javascript:location='mailto:\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u006d\u006f\u0074\u0068\u0065\u0072\u006a\u006f\u006e\u0065\u0073\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u006d\u006f\u0074\u0068\u0065\u0072\u006a\u006f\u006e\u0065\u0073\u002e\u0063\u006f\u006d')</script></a> <!-- generated using http://www.email-obfuscator.com/ -->
 * ProtonMail Email: <a href="javascript:location='mailto:\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u0070\u0072\u006f\u0074\u006f\u006e\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u0070\u0072\u006f\u0074\u006f\u006e\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script></a>
 * Signal/Telegram: ask me.
 
 ## Reporting: The Highlights
 
-### Tech
 
-* The Verge: [Getting Paid to do Nothing](https://www.theverge.com/c/22820291/tech-jobs-outsourcing-infosys-bench-paid-to-do-nothing)
-* OneZero: [Revature Coding Program Promises Jobs—but Costs $36,500 to Quit](https://onezero.medium.com/recent-grads-are-being-lured-into-indentured-servitude-by-a-coding-bootcamp-8a3b2b8e87e8)
-* Daily Beast: [Priyanka Chopra’s Favorite Coding Bootcamp Accused of 'Fraud'](https://www.thedailybeast.com/priyanka-chopras-favorite-coding-bootcamp-holberton-accused-of-fraud)
-
-
-### Finance and Economics
+### Finance
 
 * Mother Jones: [She Accused Her Ex-Husband of Abuse. She’s Still Stuck With His Student Loans.](https://www.motherjones.com/politics/2022/04/spousal-consolidation-student-loans/)
 * Mother Jones: [Biden Promised Student Debt Relief for Public Service Workers. The Reality Has Been Painful.](https://www.motherjones.com/politics/2022/01/biden-promised-student-debt-relief-for-public-service-workers-the-reality-has-been-painful/)
 * Workshift: [Do we know what jobs are in high demand?](https://workshift.opencampusmedia.org/do-we-know-what-jobs-are-in-high-demand/)
+* OneZero: [Revature Coding Program Promises Jobs—but Costs $36,500 to Quit](https://onezero.medium.com/recent-grads-are-being-lured-into-indentured-servitude-by-a-coding-bootcamp-8a3b2b8e87e8)
 * American Prospect: [Student Loan Giant Navient Reaps Backdoor Federal Reserve Subsidy](https://prospect.org/economy/student-loan-giant-navient-reaps-backdoor-federal-reserve-subsidy/)
+* Daily Beast: [Priyanka Chopra’s Favorite Coding Bootcamp Accused of 'Fraud'](https://www.thedailybeast.com/priyanka-chopras-favorite-coding-bootcamp-holberton-accused-of-fraud)
 
+### Criminal Justice
+
+* [Mother Jones: “An Extreme Amount of Pain”: How a Notorious Jail Failed a Disabled Transgender Inmate](https://www.motherjones.com/crime-justice/2023/01/mdc-brooklyn-jail-health-care/)
 
 ### Politics
 
