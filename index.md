@@ -26,7 +26,6 @@ Please reach out if there is a story that you feel needs more attention.
 * Mother Jones: [Biden Promised Student Debt Relief for Public Service Workers. The Reality Has Been Painful.](https://www.motherjones.com/politics/2022/01/biden-promised-student-debt-relief-for-public-service-workers-the-reality-has-been-painful/)
 * Workshift: [Do we know what jobs are in high demand?](https://workshift.opencampusmedia.org/do-we-know-what-jobs-are-in-high-demand/)
 * OneZero: [Revature Coding Program Promises Jobs—but Costs $36,500 to Quit](https://onezero.medium.com/recent-grads-are-being-lured-into-indentured-servitude-by-a-coding-bootcamp-8a3b2b8e87e8)
-* American Prospect: [Student Loan Giant Navient Reaps Backdoor Federal Reserve Subsidy](https://prospect.org/economy/student-loan-giant-navient-reaps-backdoor-federal-reserve-subsidy/)
 * Daily Beast: [Priyanka Chopra’s Favorite Coding Bootcamp Accused of 'Fraud'](https://www.thedailybeast.com/priyanka-chopras-favorite-coding-bootcamp-holberton-accused-of-fraud)
 
 ### Criminal Justice
