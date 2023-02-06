@@ -7,7 +7,7 @@ title: "Emma Rindlisbacher | Journalist"
 
 Hi, I'm a reporter. I currently work at [Mother Jones](https://www.motherjones.com/author/emma-rindlisbacher/). Before that I was a freelance journalist. 
 
-I write about all sorts of topics: student debt, workforce development, and congressional conflicts of interest just to name a few. I like stories that involve interesting documents. I also like stories that involve complicated systems that are producing suboptimal outcomes.
+I write about all sorts of topics: student debt, criminal justice, and financial policy just to name a few. I like stories that involve interesting documents. I also like stories that involve complicated systems that are producing suboptimal outcomes.
 
 ## Tell Me What to Write About
 
