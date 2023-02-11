@@ -25,7 +25,6 @@ Please reach out if there is a story that you feel needs more attention.
 
 * Mother Jones: [She Accused Her Ex-Husband of Abuse. She’s Still Stuck With His Student Loans.](https://www.motherjones.com/politics/2022/04/spousal-consolidation-student-loans/)
 * Mother Jones: [Biden Promised Student Debt Relief for Public Service Workers. The Reality Has Been Painful.](https://www.motherjones.com/politics/2022/01/biden-promised-student-debt-relief-for-public-service-workers-the-reality-has-been-painful/)
-* The Verge: [Getting Paid to do Nothing](https://www.theverge.com/c/22820291/tech-jobs-outsourcing-infosys-bench-paid-to-do-nothing)
 * Workshift: [Do we know what jobs are in high demand?](https://workshift.opencampusmedia.org/do-we-know-what-jobs-are-in-high-demand/)
 * OneZero: [Revature Coding Program Promises Jobs—but Costs $36,500 to Quit](https://onezero.medium.com/recent-grads-are-being-lured-into-indentured-servitude-by-a-coding-bootcamp-8a3b2b8e87e8)
 * Daily Beast: [Priyanka Chopra’s Favorite Coding Bootcamp Accused of 'Fraud'](https://www.thedailybeast.com/priyanka-chopras-favorite-coding-bootcamp-holberton-accused-of-fraud)
