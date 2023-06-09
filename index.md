@@ -5,17 +5,11 @@ title: "Emma Rindlisbacher | Journalist"
 
 # Emma Rindlisbacher
 
-Hi, I'm a reporter. I currently work at [Mother Jones](https://www.motherjones.com/author/emma-rindlisbacher/). Before that I was a freelance journalist. 
-
-I write about all sorts of topics: student debt, criminal justice, and financial policy just to name a few. I like stories that involve interesting documents. I also like stories that involve complicated systems that are producing suboptimal outcomes.
+Hi there. I'm a reporter and I write about all sorts of topics: student debt, criminal justice, and financial policy just to name a few. I like stories that involve interesting documents. I also like stories that involve complicated systems that are producing suboptimal outcomes.
 
 ## Tell Me What to Write About
 
-Please reach out if there is a story that you feel needs more attention.
-
-* Work Email: <a href="javascript:location='mailto:\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u006d\u006f\u0074\u0068\u0065\u0072\u006a\u006f\u006e\u0065\u0073\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u006d\u006f\u0074\u0068\u0065\u0072\u006a\u006f\u006e\u0065\u0073\u002e\u0063\u006f\u006d')</script></a> <!-- generated using http://www.email-obfuscator.com/ -->
-* ProtonMail Email: <a href="javascript:location='mailto:\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u0070\u0072\u006f\u0074\u006f\u006e\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u0070\u0072\u006f\u0074\u006f\u006e\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script></a>
-* Signal/Telegram: ask me.
+Please reach out if there is a story that you feel needs more attention at <a href="javascript:location='mailto:\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u0070\u0072\u006f\u0074\u006f\u006e\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u0070\u0072\u006f\u0074\u006f\u006e\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script></a>
 
 ## Reporting
 
@@ -23,6 +17,7 @@ Please reach out if there is a story that you feel needs more attention.
 
 ### Finance
 
+* Mother Jones: [Late Payments and Confusion: One Startup’s Struggle to Make Rent Easier](https://www.motherjones.com/politics/2023/06/flex-rent-housing-portals/)
 * Mother Jones: [She Accused Her Ex-Husband of Abuse. She’s Still Stuck With His Student Loans.](https://www.motherjones.com/politics/2022/04/spousal-consolidation-student-loans/)
 * Mother Jones: [Biden Promised Student Debt Relief for Public Service Workers. The Reality Has Been Painful.](https://www.motherjones.com/politics/2022/01/biden-promised-student-debt-relief-for-public-service-workers-the-reality-has-been-painful/)
 * Workshift: [Do we know what jobs are in high demand?](https://workshift.opencampusmedia.org/do-we-know-what-jobs-are-in-high-demand/)
