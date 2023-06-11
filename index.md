@@ -17,27 +17,31 @@ Please reach out if there is a story that you feel needs more attention at <a hr
 
 ### Finance
 
-* Mother Jones: [Late Payments and Confusion: One Startup’s Struggle to Make Rent Easier](https://www.motherjones.com/politics/2023/06/flex-rent-housing-portals/)
-* Mother Jones: [She Accused Her Ex-Husband of Abuse. She’s Still Stuck With His Student Loans.](https://www.motherjones.com/politics/2022/04/spousal-consolidation-student-loans/)
-* Mother Jones: [Biden Promised Student Debt Relief for Public Service Workers. The Reality Has Been Painful.](https://www.motherjones.com/politics/2022/01/biden-promised-student-debt-relief-for-public-service-workers-the-reality-has-been-painful/)
-* Workshift: [Do we know what jobs are in high demand?](https://workshift.opencampusmedia.org/do-we-know-what-jobs-are-in-high-demand/)
-* OneZero: [Revature Coding Program Promises Jobs—but Costs $36,500 to Quit](https://onezero.medium.com/recent-grads-are-being-lured-into-indentured-servitude-by-a-coding-bootcamp-8a3b2b8e87e8)
-* Daily Beast: [Priyanka Chopra’s Favorite Coding Bootcamp Accused of 'Fraud'](https://www.thedailybeast.com/priyanka-chopras-favorite-coding-bootcamp-holberton-accused-of-fraud)
+ [Late Payments and Confusion: One Startup’s Struggle to Make Rent Easier](https://www.motherjones.com/politics/2023/06/flex-rent-housing-portals/)   
+ As Flex worked to overcome technological obstacles, it turned to a decidedly low-tech solution—an army of temp workers who, until recently, made many of the rent payments by manually logging into landlords’ payment portals on behalf of Flex customers. That process had a potential flaw: As Flex’s spokesperson acknowledged, it could have been possible for the temps to retain user data on their personal computers. She noted, however, that there is no evidence this ever occurred or was even attempted. 
+
+[She Accused Her Ex-Husband of Abuse. She’s Still Stuck With His Student Loans.](https://www.motherjones.com/politics/2022/04/spousal-consolidation-student-loans/)   
+Spousal consolidation loans came with a catch: There is no mechanism to separate the two borrowers’ loans, even after a marriage falls apart.
+
+[Do we know what jobs are in high demand?](https://workshift.opencampusmedia.org/do-we-know-what-jobs-are-in-high-demand/)   
+ Measuring which fields are in demand is harder than it sounds. Many of the available data sources, experts say, have significant flaws. And that causes problems for education providers who are trying to understand market demand and map their programs to it.
+ 
+[Revature Coding Program Promises Jobs—but Costs $36,500 to Quit](https://onezero.medium.com/recent-grads-are-being-lured-into-indentured-servitude-by-a-coding-bootcamp-8a3b2b8e87e8)   
+Recent grads are being lured into ‘indentured servitude’ by a training program that costs $36,500 to quit
 
 ### Criminal Justice
 
-* Mother Jones: [“An Extreme Amount of Pain”: How a Notorious Jail Failed a Disabled Transgender Inmate](https://www.motherjones.com/crime-justice/2023/01/mdc-brooklyn-jail-health-care/)
+[“An Extreme Amount of Pain”: How a Notorious Jail Failed a Disabled Transgender Inmate](https://www.motherjones.com/crime-justice/2023/01/mdc-brooklyn-jail-health-care/)   
+At one point, one of the numerous judges who has rotated through Sternquist’s case threatened to sanction the Department of Justice over the jail’s failure to obey a court order regarding her housing. In at least two other instances, judges issued orders regarding her medical care, but the jail failed to comply before the court-imposed deadlines had passed, according to court transcripts and documents.
 
 ### Politics
 
-* Mother Jones: [Matt DePerno Sought to Foreclose on His Clients’ Property. Now He Wants to Be Michigan’s Top Lawyer.](https://www.motherjones.com/politics/2022/10/matthew-deperno-trump-michigan-foreclosure/)
-* Mother Jones: [This Republican Wants to Extend a Real Estate Tax Break. He Could Be a Big Beneficiary.](https://www.motherjones.com/politics/2022/02/tracey-mann-congress-opportunity-zones-austin/)
-* The Lever: [Dems Demanding SALT Tax Cuts Stand to Benefit](https://www.dailyposter.com/democrats-gunning-to-end-salt-cap-stand-to-benefit/)
-* The Lever: [Boot Camps For Crushing Democracy](https://www.dailyposter.com/p/boot-camps-for-crushing-democracy)
-* The Lever/American Prospect: [GOP Lawmaker Leads Fight to Get His Industry a Government Bailout](https://www.dailyposter.com/p/gop-lawmaker-leads-fight-to-get-his)
+[Dems Demanding SALT Tax Cuts Stand to Benefit](https://www.dailyposter.com/democrats-gunning-to-end-salt-cap-stand-to-benefit/](https://www.levernews.com/democrats-gunning-to-end-salt-cap-stand-to-benefit/)   
+Lawmakers leading the charge to reinstate state and local tax breaks could score thousands in annual deductions.
 
 ## Research and Miscellaneous
 
 I occasionally will help various types of organizations conduct research. 
 
-* Century Foundation: [Flying Under the Regulation Radar: University Partnerships with Coding Bootcamps](https://tcf.org/content/report/flying-regulation-radar-university-partnerships-coding-bootcamps/)
+[Flying Under the Regulation Radar: University Partnerships with Coding Bootcamps](https://tcf.org/content/report/flying-regulation-radar-university-partnerships-coding-bootcamps/)   
+Bootcamps—for-profit, unaccredited, short-term educational programs—have continued to find new university partners during the pandemic. These partnerships have been especially lucrative for coding bootcamps—a popular variant that teaches computer programming—who typically collect 80 percent of the revenue generated from the program and who use the partnerships to gain exemptions from state regulations. But the lack of oversight of these partnerships is cause for concern, especially given past abuses in the industry.
