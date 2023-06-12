@@ -23,7 +23,7 @@ Please reach out if there is a story that you feel needs more attention at <a hr
 * [She Accused Her Ex-Husband of Abuse. She’s Still Stuck With His Student Loans.](https://www.motherjones.com/politics/2022/04/spousal-consolidation-student-loans/)   
   Spousal consolidation loans came with a catch: There is no mechanism to separate the two borrowers’ loans, even after a marriage falls apart.
   
-* [Biden Promised Student Debt Relief for Public Service Workers. The Reality Has Been Painful.](https://www.motherjones.com/politics/2022/01/biden-promised-student-debt-relief-for-public-service-workers-the-reality-has-been-painful/)
+* [Biden Promised Student Debt Relief for Public Service Workers. The Reality Has Been Painful.](https://www.motherjones.com/politics/2022/01/biden-promised-student-debt-relief-for-public-service-workers-the-reality-has-been-painful/)  
   “Even the best targeting is going to leave out borrowers who we need to be able to capture.”
 
 * [Do we know what jobs are in high demand?](https://workshift.opencampusmedia.org/do-we-know-what-jobs-are-in-high-demand/)   
