@@ -7,7 +7,7 @@ title: "Emma Rindlisbacher | Journalist"
 
 Hi there. I'm a reporter and I write about all sorts of topics: student debt, criminal justice, and financial policy just to name a few. I like stories that involve interesting documents. I also like stories that involve complicated systems that are producing suboptimal outcomes.
 
-## Tell Me What to Write About
+## Contact
 
 Please reach out if there is a story that you feel needs more attention at <a href="javascript:location='mailto:\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u0070\u0072\u006f\u0074\u006f\u006e\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0065\u0072\u0069\u006e\u0064\u006c\u0069\u0073\u0062\u0061\u0063\u0068\u0065\u0072\u0040\u0070\u0072\u006f\u0074\u006f\u006e\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script></a>
 
