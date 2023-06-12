@@ -22,6 +22,9 @@ Please reach out if there is a story that you feel needs more attention at <a hr
 
 * [She Accused Her Ex-Husband of Abuse. She’s Still Stuck With His Student Loans.](https://www.motherjones.com/politics/2022/04/spousal-consolidation-student-loans/)   
   Spousal consolidation loans came with a catch: There is no mechanism to separate the two borrowers’ loans, even after a marriage falls apart.
+  
+* [Biden Promised Student Debt Relief for Public Service Workers. The Reality Has Been Painful.](https://www.motherjones.com/politics/2022/01/biden-promised-student-debt-relief-for-public-service-workers-the-reality-has-been-painful/)
+  “Even the best targeting is going to leave out borrowers who we need to be able to capture.”
 
 * [Do we know what jobs are in high demand?](https://workshift.opencampusmedia.org/do-we-know-what-jobs-are-in-high-demand/)   
   Measuring which fields are in demand is harder than it sounds. Many of the available data sources, experts say, have significant flaws. And that causes problems for education providers who are trying to understand market demand and map their programs to it.
@@ -36,8 +39,12 @@ Please reach out if there is a story that you feel needs more attention at <a hr
 
 ### Politics
 
+* [This Republican Wants to Extend a Real Estate Tax Break. He Could Be a Big Beneficiary.](https://www.motherjones.com/politics/2022/02/tracey-mann-congress-opportunity-zones-austin/)  
+  Rep. Tracey Mann invested heavily in opportunity zones.
+
 * [Dems Demanding SALT Tax Cuts Stand to Benefit](https://www.levernews.com/democrats-gunning-to-end-salt-cap-stand-to-benefit/)   
   Lawmakers leading the charge to reinstate state and local tax breaks could score thousands in annual deductions.
+ 
 
 ## Research and Miscellaneous
 
