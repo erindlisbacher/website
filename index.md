@@ -34,7 +34,7 @@ Please reach out if there is a story that you feel needs more attention at <a hr
 
 ### Criminal Justice
 
-* [Decider, M.D.](https://www.motherjones.com/crime-justice/2023/01/mdc-brooklyn-jail-health-care/](https://prospect.org/justice/2024-03-29-decider-md-oregon-prisons/)   
+* [Decider, M.D.](https://prospect.org/justice/2024-03-29-decider-md-oregon-prisons/)   
   One man, Dr. Warren Roberts, determines whether prisoners in Oregon get medical treatment for their illnesses and injuries.
 
 ### Politics
