@@ -32,7 +32,7 @@ Please reach out if there is a story that you feel needs more attention at <a hr
 * [Revature Coding Program Promises Jobs—but Costs $36,500 to Quit](https://onezero.medium.com/recent-grads-are-being-lured-into-indentured-servitude-by-a-coding-bootcamp-8a3b2b8e87e8)   
   Recent grads are being lured into ‘indentured servitude’ by a training program that costs $36,500 to quit
 
-* [Landlords Are Charging You Junk Fees For Services That Screw You](https://www.levernews.com/landlords-are-charging-you-junk-fees-for-services-that-screw-you/)
+* [Landlords Are Charging You Junk Fees For Services That Screw You](https://www.levernews.com/landlords-are-charging-you-junk-fees-for-services-that-screw-you/)   
   Tenants are paying fees to have their credit scores lowered, among other dubious services.
 
 ### Criminal Justice
@@ -48,10 +48,10 @@ Please reach out if there is a story that you feel needs more attention at <a hr
 * [Dems Demanding SALT Tax Cuts Stand to Benefit](https://www.levernews.com/democrats-gunning-to-end-salt-cap-stand-to-benefit/)   
   Lawmakers leading the charge to reinstate state and local tax breaks could score thousands in annual deductions.
 
-* [GOP Lawmaker Leads Fight To Get His Industry A Government Bailout](https://www.levernews.com/gop-lawmaker-leads-fight-to-get-his/)
+* [GOP Lawmaker Leads Fight To Get His Industry A Government Bailout](https://www.levernews.com/gop-lawmaker-leads-fight-to-get-his/)   
   Rep. Van Taylor voted against aid for renters and student debtors — but the real estate mogul is now using his office to pressure the government to give his commercial real estate industry a bailout.
 
-* [This Democrat Wrote a Water Recycling Law. It Could Benefit Her Financially.](https://www.motherjones.com/politics/2022/06/susie-lee-congress-stocks-water-recycling/)
+* [This Democrat Wrote a Water Recycling Law. It Could Benefit Her Financially.](https://www.motherjones.com/politics/2022/06/susie-lee-congress-stocks-water-recycling/)   
   There’s no evidence that Rep. Susie Lee intended to profit from her legislation. An ethics expert says it’s still a problem.
 
 ## Research and Miscellaneous
