@@ -35,6 +35,9 @@ Please reach out if there is a story that you feel needs more attention at <a hr
 * [Landlords Are Charging You Junk Fees For Services That Screw You](https://www.levernews.com/landlords-are-charging-you-junk-fees-for-services-that-screw-you/)   
   Tenants are paying fees to have their credit scores lowered, among other dubious services.
 
+* [The new American dream](https://www.theverge.com/c/22820291/tech-jobs-outsourcing-infosys-bench-paid-to-do-nothing)
+   Outsourced tech jobs are returning to the US. So why are staffing firms hiring so many young Americans to sit around and do nothing? 
+
 ### Criminal Justice
 
 * [Decider, M.D.](https://prospect.org/justice/2024-03-29-decider-md-oregon-prisons/)   
